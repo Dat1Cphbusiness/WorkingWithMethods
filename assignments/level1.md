@@ -1690,3 +1690,4 @@ Efter du har løst opgaverne, tænk over:
 6. Hvorfor er det vigtigt at give metoder beskrivende navne?
 7. Hvordan gør metoder det lettere at ændre dit program senere?
 8. Hvad er forskellen mellem at definere en metode og at kalde den?
+

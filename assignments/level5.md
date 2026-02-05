@@ -1,5 +1,13 @@
 # Level 5: Classes and Objects Basics - Opgaver
 
+## Indhold
+- [ ] [Del A: Simple Klasser og Objekter](#del-a-simple-klasser-og-objekter)
+- [ ] [Del B: Objekter med Metoder og Conditions](#del-b-objekter-med-metoder-og-conditions)
+- [ ] [Del C: Arrays af Objekter](#del-c-arrays-af-objekter)
+- [ ] [Del D: Søg og Find i Object Arrays](#del-d-søg-og-find-i-object-arrays)
+- [ ] [Del E: Komplekse Scenarier](#del-e-komplekse-scenarier)
+- [ ] [Del F: Real-World Scenarios og Problemløsning](#del-f-real-world-scenarios-og-problemløsning)
+
 ## Del A: Simple Klasser og Objekter
 
 ### Opgave 1: Din Første Klasse

@@ -1,5 +1,12 @@
 # Level 6: Instance Methods - Opgaver
 
+## Indhold
+- [ ] [Del A: Void Instance Methods](#del-a-void-instance-methods)
+- [ ] [Del B: Return Instance Methods](#del-b-return-instance-methods)
+- [ ] [Del C: Kombinerede Methods](#del-c-kombinerede-methods)
+- [ ] [Del D: User Input til Objekter](#del-d-user-input-til-objekter)
+- [ ] [Del E: Avancerede Scenarios](#del-e-avancerede-scenarios)
+
 ## Del A: Void Instance Methods
 
 ### Opgave 1: Første Instance Method
