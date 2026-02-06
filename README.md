@@ -1,4 +1,4 @@
-# Metoder og Objekter
+# Metoder
 
 ## Indhold
 
