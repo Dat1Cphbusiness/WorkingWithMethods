@@ -3,28 +3,19 @@
 ## Indhold
 
 ### Concepts (Forklaringer)
-**Metoder**
+
 - [Level 1: Void Methods (Uden Parametre)](concepts/level1.md)
 - [Level 2: Void Methods (Med Parametre)](concepts/level2.md)
 - [Level 3: Return Methods](concepts/level3.md)
 - [Level 4: Methods med Arrays](concepts/level4.md)
-------------
-**Objekter**
-- [Level 5: Classes and Objects Basics](concepts/level5.md)
-- [Level 6: Instance Methods](concepts/level6.md)
-- [Level 7: Object Interaction](concepts/level7.md)
+
 
 ### Assignments (Opgaver)
-**Metoder**
+
 - [Level 1: Void Methods (Uden Parametre)](assignments/level1.md)
 - [Level 2: Void Methods (Med Parametre)](assignments/level2.md)
 - [Level 3: Return Methods](assignments/level3.md)
 - [Level 4: Methods med Arrays](assignments/level4.md)
-------------
-**Objekter**
-- [Level 5: Classes and Objects Basics](assignments/level5.md)
-- [Level 6: Instance Methods](assignments/level6.md)
-- [Level 7: Object Interaction](assignments/level7.md)
 
 ## Progression
 
@@ -34,9 +25,6 @@
 | 2 | Void Methods (Med Parametre) | Gøre metoder fleksible med parametre |
 | 3 | Return Methods | Få værdier tilbage fra metoder |
 | 4 | Methods med Arrays | Arbejde med arrays i metoder |
-| 5 | Classes and Objects Basics | Skabe objekter med instance variables og constructors |
-| 6 | Instance Methods | Lade objekter udføre handlinger på sig selv |
-| 7 | Object Interaction | Få objekter til at kommunikere og samarbejde |
 
 ## Sådan bruger du dette materiale
 
